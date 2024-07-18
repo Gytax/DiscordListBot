@@ -17,8 +17,3 @@ class DiscordList:
             'name':       self.name,
             'items':      self.items
         }
-
-
-# from discord_list import DiscordList
-# list1 = DiscordList('list1', 123)
-# list2 = DiscordList('list2', 456)
